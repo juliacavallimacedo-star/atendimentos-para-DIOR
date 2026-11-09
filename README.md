@@ -2,7 +2,7 @@
 
 OBJETIVO
 - saber o nome do vendedor.
-- sabero o nome do cliente.
+- saber o nome do cliente.
 - descobrir o valor dos descontos. Quanto sera pago com o desconto.
 - descobrir o valor da compra.
 
