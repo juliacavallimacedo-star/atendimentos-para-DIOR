@@ -11,6 +11,27 @@ INFORMAÇõES
 - valores ENTRE R$: 300,00 e R$: 150,00 tem o desconto de 10%.
 - valores ABAIXO de R$: 150,00 nao tem desconto.
 
+- Análise de Requisitos – Sistema de Atendimentos para DIOR
+Requisitos que funciona no sistema
+Item      Descrição
+01        O sistema deve permitir informar o nome do vendedor responsável pelo atendimento.
+02        O sistema deve permitir informar o nome do cliente.
+03        O sistema deve permitir informar o valor total da compra.
+04        O sistema deve identificar automaticamente o percentual de desconto conforme o valor da compra.
+05        O sistema deve calcular o valor do desconto em reais.
+06        O sistema deve calcular o valor final da compra após a aplicação do desconto.
+07        O sistema deve exibir o nome do vendedor e do cliente.
+08        O sistema deve apresentar o valor original da compra, o desconto aplicado e o valor final a pagar.
+
+Requisitos que não funciona nos sistemas
+Item      Descrição
+01        O sistema deve possuir uma interface simples e de fácil utilização.
+02        O sistema deve realizar os cálculos automaticamente.
+03        O sistema deve apresentar os valores monetários no formato brasileiro (R$).
+04        O sistema deve apresentar as informações de forma clara e organizada.
+05        O sistema deve impedir o preenchimento de valores negativos ou inválidos.
+kjvfjnfjnbjnvnjn
+
 
 
 
