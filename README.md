@@ -42,7 +42,7 @@ Item      Descrição
 05        O sistema deve impedir o preenchimento de valores negativos .
 
 Problemas encontrados pela testadora:
-01 - O sistema não impediu o preenchimento de valores negativos. *Problema corrigido*
+01 - O sistema não impediu o preenchimento de valores negativos. (*Problema corrigido*)
 02 - O sistema não possui uma calculadora automática.
 03 - O sistema não possui o valor de cada produto disponível.
 04 - O sistema não contabiliza a quantidade de produtos adquiridos.
