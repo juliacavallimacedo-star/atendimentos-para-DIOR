@@ -14,7 +14,7 @@ INFORMAÇõES
 
   PRODUTOS
 - vestido
-- casado
+- casaco
 - blusa
 - calça
   
