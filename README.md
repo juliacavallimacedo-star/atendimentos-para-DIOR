@@ -39,7 +39,7 @@ Item      Descrição
 02        O sistema deve realizar os cálculos automaticamente.
 03        O sistema deve apresentar os valores monetários no formato brasileiro (R$).
 04        O sistema deve apresentar as informações de forma clara e organizada.
-05        O sistema deve impedir o preenchimento de valores negativos ou inválidos.
+05        O sistema deve impedir o preenchimento de valores negativos .
 
 
 
