@@ -29,6 +29,9 @@ Item      Descrição
 06        O sistema deve calcular o valor final da compra após a aplicação do desconto.
 07        O sistema deve exibir o nome do vendedor e do cliente.
 08        O sistema deve apresentar o valor original da compra, o desconto aplicado e o valor final a pagar.
+09	      O sistema deve permitir informar ou selecionar o produto que o cliente está comprando.
+10	      O sistema deve permitir informar a quantidade de unidades de cada produto que o cliente está levando.
+11	      O sistema deve disponibilizar as seguintes opções de produtos: vestido, casaco, blusa e calça.
 
 Requisitos que não funciona nos sistemas
 Item      Descrição
