@@ -41,6 +41,8 @@ Item      Descrição
 04        O sistema deve apresentar as informações de forma clara e organizada.
 05        O sistema deve impedir o preenchimento de valores negativos .
 
+Problemas encontrados pela testadora:
+01 - O sistema não impediu o preenchimento de valores negativos.
 
 
 
