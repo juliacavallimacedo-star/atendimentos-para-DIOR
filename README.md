@@ -40,7 +40,6 @@ Item      Descrição
 03        O sistema deve apresentar os valores monetários no formato brasileiro (R$).
 04        O sistema deve apresentar as informações de forma clara e organizada.
 05        O sistema deve impedir o preenchimento de valores negativos ou inválidos.
-kjvfjnfjnbjnvnjn
 
 
 
