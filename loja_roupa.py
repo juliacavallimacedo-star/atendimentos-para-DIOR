@@ -2,6 +2,7 @@ valor_total = 0
 nome_cliente = input("Digite o nome do cliente: ")
 nome_vendedor = input("Digite o nome do vendedor: ")
 itemVendido = input("Digite o nome do produto comprado: ")
+contador = float(input("Qual o valor do produto comprado (pra sair digite 0):"))
 possuiMais = input("Possui mais itens? (s/n) ")
 print(f"Bem-Vindo(a) {nome_vendedor}.")
 
@@ -15,11 +16,9 @@ while possuiMais == "s":
     produtoComprado = input("Digite o produto comprado: ")
     possuiMais = input("Possui mais itens? (s/n) ")
 
-contador = float(input("Qual o valor do produto comprado (pra sair digite 0):"))
-
 while contador != 0 :
     valor_total += contador
-    contador = float(input("Qual o valor do produto comprado (pra sair digite 0):"))
+    contador = float(input("Qual o valor do produto comprado (caso não possua mais produto, digite pra sair 0):"))
 
     
 
