@@ -17,7 +17,6 @@ INFORMAÇõES
 - casado
 - blusa
 - calça
-
   
 ANALISE DE REQUISITOS_Sistema de Atendimentos para DIOR
 Requisitos que funciona no sistema
