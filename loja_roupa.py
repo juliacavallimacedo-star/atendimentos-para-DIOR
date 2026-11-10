@@ -5,7 +5,9 @@ print(f"Bem-Vindo(a) {nome_vendedor}.")
 
 valor_total = float(input("Digite o valor total da conta: "))
 
-if valor_total > 300 :
+if valor_total < 0:
+    print(f"Valor total (R${valor_total}) inválido.")
+elif valor_total > 300 :
     desconto = valor_total * 0.15
     valorFinal = valor_total - desconto
     print(f"O valor total da compra do produto {itemVendido}, do cliente {nome_cliente}, sem o desconto é de R${valor_total}. {nome_cliente} ganhou um desconto de 15% do(a) vendedor(a) {nome_vendedor}, sua compra ficou no valor de R${valorFinal}.")
