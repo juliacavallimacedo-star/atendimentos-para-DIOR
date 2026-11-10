@@ -11,12 +11,12 @@ INFORMAÇõES
 - valores ACIMA de R$: 300,00 tem o desconto de 15%.
 - valores ENTRE R$: 300,00 e R$: 150,00 tem o desconto de 10%.
 - valores ABAIXO de R$: 150,00 nao tem desconto.
-
+  
   PRODUTOS
-- vestido
-- casaco
-- blusa
-- calça
+- vestido  R$: 330,00
+- casaco   R$: 300,00
+- blusa    R$: 110,00
+- calça    R$: 250,00
   
 ANALISE DE REQUISITOS_Sistema de Atendimentos para DIOR
 Requisitos que funciona no sistema
