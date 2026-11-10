@@ -43,6 +43,7 @@ Item      Descrição
 
 Problemas encontrados pela testadora:
 01 - O sistema não impediu o preenchimento de valores negativos.
+Problema corrigido.
 
 
 
