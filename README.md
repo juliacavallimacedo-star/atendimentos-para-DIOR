@@ -5,6 +5,7 @@ OBJETIVO
 - saber o nome do cliente.
 - descobrir o valor dos descontos. Quanto sera pago com o desconto.
 - descobrir o valor da compra.
+- informar qual o produto está sendo comprado e a quantidade que o cliente está levando. 
 
 INFORMAÇõES
 - valores ACIMA de R$: 300,00 tem o desconto de 15%.
