@@ -12,7 +12,14 @@ INFORMAÇõES
 - valores ENTRE R$: 300,00 e R$: 150,00 tem o desconto de 10%.
 - valores ABAIXO de R$: 150,00 nao tem desconto.
 
-- Análise de Requisitos – Sistema de Atendimentos para DIOR
+  PRODUTOS
+- vestido
+- casado
+- blusa
+- calça
+
+  
+ANALISE DE REQUISITOS_Sistema de Atendimentos para DIOR
 Requisitos que funciona no sistema
 Item      Descrição
 01        O sistema deve permitir informar o nome do vendedor responsável pelo atendimento.
