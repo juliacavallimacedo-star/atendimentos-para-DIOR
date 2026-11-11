@@ -45,6 +45,7 @@ Problemas encontrados pela testadora:
 01 - O sistema não impediu o preenchimento de valores negativos. (*Problema corrigido*)
 02 - O sistema não possui uma calculadora automática. (*Problema corrigido*)
 03 - O sistema não possui o valor de cada produto disponível. (*Problema corrigido*)
+04 - O sistema precisa pedir qual o produto e após pedir o valor e assim sucessivamente. (*Problema corrigido*)
 
 
 
