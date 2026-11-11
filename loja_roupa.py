@@ -6,17 +6,18 @@ contador = float(input("Qual o valor do produto comprado (pra sair digite 0):"))
 possuiMais = input("Possui mais itens? (s/n) ")
 print(f"Bem-Vindo(a) {nome_vendedor}.")
 
-#Valor dos produtos
-vestido = 330,00
-casaco = 300,00
-blusa = 110,00
-calca = 250,00
+# #Valor dos produtos
+# vestido = 330,00
+# casaco = 300,00
+# blusa = 110,00
+# calca = 250,00
 
-while possuiMais == "s":
-    produtoComprado = input("Digite o produto comprado: ")
-    possuiMais = input("Possui mais itens? (s/n) ")
+# while possuiMais == "s":
+#     produtoComprado = input("Digite o produto comprado: ")
+#     possuiMais = input("Possui mais itens? (s/n) ")
 
 while contador != 0 :
+    produtoComprado = input("Digite o produto comprado: ")
     valor_total += contador
     contador = float(input("Qual o valor do produto comprado (caso não possua mais produto, digite pra sair 0):"))
 
